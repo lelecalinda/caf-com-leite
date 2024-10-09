@@ -14,3 +14,5 @@ function criaCartao(){
 </div>
 
 container.appendChild(cartao);
+
+}
