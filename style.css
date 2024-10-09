@@ -9,6 +9,7 @@
 
 body{
     background-color: var(--fundo);
+    max-resolution: 0;
 
 }
 footer{
