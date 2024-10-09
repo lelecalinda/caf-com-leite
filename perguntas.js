@@ -1,5 +1,5 @@
 Criacartão
-(‘matemática','1. O que é uma equação do segundo grau?','É uma conta com \(x^2\), como \(x^2 + 3x + 2 = 0\).')
+('matemática','1. O que é uma equação do segundo grau?','É uma conta com \(x^2\), como \(x^2 + 3x + 2 = 0\).')
 
 criaCartão
 ('Programação','2. O que é um loop em programação?','Um loop é uma estrutura que repete um bloco de código várias vezes até que uma condição seja atendida ou deixe de ser verdadeira.')
@@ -11,7 +11,7 @@ criaCartão
 ('biologia','4. O que é fotossíntese?','É o processo pelo qual as plantas usam a luz do sol para fazer comida.')
 
 criaCartão 
-(‘história','5. Quem foi o primeiro presidente do Brasil?','Foi o Marechal Deodoro da Fonseca.')
+('história','5. Quem foi o primeiro presidente do Brasil?','Foi o Marechal Deodoro da Fonseca.')
 
 criaCartão
 ('português','6. O que é um verbo?','É uma palavra que indica ação, como correr, falar e comer.)
