@@ -70,7 +70,7 @@ transition: transform 300ms ease-in-out;
     color: var(--destaque);
 
 }
-.cartao:hover .conteudo-cartao{
+.cartao:active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 
