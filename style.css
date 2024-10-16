@@ -87,5 +87,5 @@ transition: transform 300ms ease-in-out;
     transform: rotateY(180deg);
     background-color: var(--cartao-verso);
     border: 2px solid var(--destaque);
-
+background-color: var(--cartao-verso);
 }
