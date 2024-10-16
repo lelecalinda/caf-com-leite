@@ -42,6 +42,7 @@ text-align: center;
 transition: transform 300ms ease-in-out;
 } 
 
+
 .conteudo-cartao h3{
     color: var(--destaque);
     border: 1px solid var(--destaque);
@@ -50,6 +51,7 @@ transition: transform 300ms ease-in-out;
     margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 
 }
 
@@ -72,5 +74,9 @@ transition: transform 300ms ease-in-out;
     transform: rotateY(180deg);
 }
 
-
-
+.pergunta-cartao, .pergunta-cartao{
+    backface-visibility: hidden
+    position: absolute;
+    height: 100%;
+    box-sizing: border-box;
+}
