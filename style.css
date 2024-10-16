@@ -83,8 +83,8 @@ transition: transform 300ms ease-in-out;
 
 
 .resposta-cartao{
-    transform: rotateY (180 deg);
+    transform: rotateY(180deg);
     background-color: var(--cartao-verso);
     border: 2px solid var(--destaque);
-    
+
 }
