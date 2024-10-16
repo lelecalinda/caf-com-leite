@@ -1,4 +1,4 @@
-function criaCartao(categoria,pergunta,resposerta){
+function criaCartao(categoria,pergunta,resposta){
    let container = document.getElementById('container');
    let cartao = document.createElement('article');
    cartao.className = 'café com leite';
