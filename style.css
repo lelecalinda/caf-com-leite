@@ -80,3 +80,11 @@ transition: transform 300ms ease-in-out;
     height: 100%;
     box-sizing: border-box;
 }
+
+
+.resposta-cartao{
+    transform: rotateY (180 deg);
+    background-color: var(--cartao-verso);
+    border: 2px solid var(--destaque);
+    
+}
