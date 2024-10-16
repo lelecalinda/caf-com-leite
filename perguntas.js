@@ -36,7 +36,7 @@ criaCartao
                     ('História', '13.Assumiu o governo, após a saída de Vargas',
                         'Dutra')
 
-Criacartao('Biologia', '14. Quem foi Mendel?', 'Biologo e botânico austríaco')
+criaCartao('Biologia', '14. Quem foi Mendel?', 'Biologo e botânico austríaco')
 
 criaCartao
                     ('O que é ligação covalente?', '15. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
