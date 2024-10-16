@@ -58,6 +58,18 @@ text-align: center;
     padding: 2rem;
 }
 
+.pergunta-cartao{
+    font-weight: 500;
+}
+
+.resposta-cartao{
+    font-weight: 700;
+    color: var(--destaque);
+
+}
+.cartao:hover .conteudo-cartao{
+    transform: rotateY(180deg);
+}
 
 
 
