@@ -1,0 +1,28 @@
+:root{
+    --fundo: #d097ff;
+    --cartão-frente: #4682b4;
+    --cartao-verso: #000;
+    --destaque:#00FFFF;
+    --preto: #000;
+    --branco: #ffffff;
+}
+
+body{
+    background-color: var(--fundo);
+    max-resolution: 0;
+
+}
+footer{
+    position:fixed;
+bottom: 0;
+background-color: var(--preto);
+color: var(--branco);
+width: 100%;
+text-align: center;
+}
+
+#container{
+    display: grid;
+    gap: 3rem;
+    
+}
