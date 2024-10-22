@@ -30,5 +30,6 @@ text-align: center;
 .conteudo-cartao{
     padding: 40px;
     background-color: var(--cartão-frente);
-    box-shadow: 5px 5px 25px var()rebeccapurple;
+    box-shadow: 5px 5px 25px var(--preto);
 }
+x
