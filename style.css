@@ -12,6 +12,19 @@ body{
     max-resolution: 0;
 
 }
+
+header{
+    background-color: var(--preto);
+color: var(--branco);
+padding: 2rem;
+display: flex;
+justify-content: space-around;
+}
+
+header a{
+    text-decoration: none;
+    color: var(--branco);
+}
 footer{
     position:fixed;
 bottom: 0;
