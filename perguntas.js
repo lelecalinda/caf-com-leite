@@ -29,7 +29,7 @@ criaCartao
                     ('química', '10. O que é um elemento químico?', 'uma substância básica, como ouro ou oxigênio.')
 
 criaCartao
-                    ('Matemática', ' 11. Matemática-Qual o valor de pi?', '3.14')
+                    ('Matemática', ' 11. -Qual o valor de pi?', '3.14')
 
 
 criaCartao
