@@ -32,4 +32,7 @@ text-align: center;
     background-color: var(--cartão-frente);
     box-shadow: 5px 5px 25px var(--preto);
 }
-x
+.conteudo-cartao:houver{
+    transform: scale(1,03);
+    
+}
