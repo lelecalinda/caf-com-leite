@@ -24,5 +24,6 @@ text-align: center;
 #container{
     display: grid;
     gap: 3rem;
-    
+    padding: 20px;
+
 }
