@@ -33,7 +33,7 @@ criaCartao
 
 
 criaCartao
-                    ('História', '13.Assumiu o governo, após a saída de Vargas',
+                    ('História', '13. Quem assumiu o governo, após a saída de Vargas',
                         'Dutra')
 
 criaCartao('Biologia', '14. Quem foi Mendel?', 'Biologo e botânico austríaco')
