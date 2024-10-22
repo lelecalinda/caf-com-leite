@@ -14,7 +14,7 @@ body{
 }
 
 header{
-    background-color: var(--preto);
+    background-color: var(--cartão-frente);
 color: var(--branco);
 padding: 2rem;
 display: flex;
