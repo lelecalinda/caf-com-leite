@@ -27,3 +27,8 @@ text-align: center;
     padding: 20px;
 
 }
+.conteudo-cartao{
+    padding: 40px;
+    background-color: var(--cartão-frente);
+    box-shadow: 5px 5px 2px var(--preto);
+}
