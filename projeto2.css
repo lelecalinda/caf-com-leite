@@ -45,7 +45,7 @@ text-align: center;
     border-radius:10px;
     cursor: pointer;
 }
-.conteudo-cartao:houver{
+.conteudo-cartao:hover{
     transform: scale(1.02);
 
 }
